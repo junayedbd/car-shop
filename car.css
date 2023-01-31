@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navber{
+    display: flex;
+    background-color: #E3E8EC;
+    text-align: center;
+
+}
+.logo img{
+width: 100px;
+height: 80px;
+margin-left: 200px;
+}
+.manu{
+    margin-left: 400px;
+    margin-top: 0px;
+    background-color: blueviolet;
+    padding: 15px 50px;
+}
+.manu a{
+    font-size: 30px;
+    margin: 0px 10px;
+ text-decoration: none;
+ color: white;
+
+}
+.manu a:hover{
+    color: red;
+
+}
+.shopicon{
+    align-items: center;
+    margin: 20px 0px;
+}
+.shopicon a{
+    font-size: 30px;
+    text-decoration: none;
+    margin-right: 100px;
+    margin-left: 250px;
+    background-color: cornflowerblue;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 10px;
+}
+.shopicon a:hover{
+    background-color: rgb(60, 88, 140);
+
+}
