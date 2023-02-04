@@ -48,3 +48,28 @@ margin-left: 200px;
     background-color: rgb(60, 88, 140);
 
 }
+/* banner */
+.banner{
+    margin: 30px 40px;
+    display: grid;
+    grid-template-columns: repeat(3,5fr);
+}
+.card{
+text-align: center;
+margin: 10px 20px;
+box-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+.card h3{
+    text-align: left;
+    font-size: 20px;
+    background-color: darkviolet;
+    color: white;
+    text
+ 
+   
+}
+.card img{
+    margin: 0px auto;
+    display: block;
+    width: 570px;
+}
